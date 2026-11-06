@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Corrida Particular",
+  "short_name": "Corrida",
+  "description": "Simule o valor das suas corridas particulares: embarque, destino, rota no mapa e total pelo valor do km.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b7a6e",
+  "theme_color": "#0b7a6e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
